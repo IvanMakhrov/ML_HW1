@@ -176,4 +176,4 @@ MSE: 45816371893.814255
 
 ![Alt text](https://github.com/IvanMakhrov/ML_HW1/blob/main/images/predict_item_python.png?raw=true)
 
-
+![Alt text](https://github.com/IvanMakhrov/ML_HW1/blob/main/images/predict_items_postman.png?raw=true)
