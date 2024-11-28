@@ -184,6 +184,6 @@ MSE: 45816371893.814255
 ![Alt text](https://github.com/IvanMakhrov/ML_HW1/blob/main/images/predict_items_postman.png?raw=true)
 
 Тестирование второго сценария на Python:
-Отправляем csv файл и получаем его обратно с прогнозной ценой АМ
+Отправляем csv файл и получаем его обратно с прогнозной ценой АМ<br>
 Трансформируем его в df и смотрим первые 5 значений и статистику
 ![Alt text](https://github.com/IvanMakhrov/ML_HW1/blob/main/images/predict_items_python.png?raw=true)
