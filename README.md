@@ -172,3 +172,4 @@ MSE: 45816371893.814255
 2.Отправляем csv файл с данными об АМ и получаем обратно csv файл с еще одной колонкой - прогнозной ценой АМ
 
 Тестирование первого сценария:
+![Alt text](https://github.com/IvanMakhrov/ML_HW1/blob/c96ccb6632e4f98ae811a5ce52c21862ce724fc5/images/predict_item_postman.png?raw=true)
