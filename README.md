@@ -171,9 +171,19 @@ MSE: 45816371893.814255
 1.Отправляем json с информацией об одном АМ и получаем прогнозное значение цены
 2.Отправляем csv файл с данными об АМ и получаем обратно csv файл с еще одной колонкой - прогнозной ценой АМ
 
-Тестирование первого сценария:
+Тестирование первого сценария в Postman:
+Отправляем json по одной АМ
 ![Alt text](https://github.com/IvanMakhrov/ML_HW1/blob/c96ccb6632e4f98ae811a5ce52c21862ce724fc5/images/predict_item_postman.png?raw=true)
 
+Тестирование первого сценария на Python:
+Делаем 5 итераций по отправке json
 ![Alt text](https://github.com/IvanMakhrov/ML_HW1/blob/main/images/predict_item_python.png?raw=true)
 
+Тестирование второго сценария в Postman:
+Отправляем csv файл и получаем обратно его же с новой колонкой - пронозной ценой АМ
 ![Alt text](https://github.com/IvanMakhrov/ML_HW1/blob/main/images/predict_items_postman.png?raw=true)
+
+Тестирование второго сценария на Python:
+Отправляем csv файл и получаем его обратно с прогнозной ценой АМ
+Трансформируем его в df и смотрим первые 5 значений и статистику
+![Alt text](https://github.com/IvanMakhrov/ML_HW1/blob/main/images/predict_items_python.png?raw=true)
